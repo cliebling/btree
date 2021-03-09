@@ -1,7 +1,7 @@
 /*
  * Copyright (C) 2020 Charles R. Liebling
  *
- * btree.c
+ * btree.h
  * This implements a small binary tree library.
  *
  * This program is free software; you can redistribute it and/or
